@@ -1,3 +1,7 @@
+# Basic Network Packet sniffer project by www.linkedin.com/in/ameer-hamza-826290184
+# This project is a part of my internship program with CodeAlpha
+
+
 from scapy.all import sniff, IP, TCP, UDP
 
 
